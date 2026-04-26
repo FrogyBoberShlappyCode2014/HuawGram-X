@@ -41,7 +41,7 @@ val config = extra["config"] as ApplicationConfig
 
 //noinspection WrongGradleMethod
 android {
-  namespace = "org.thunderdog.challegram"
+  namespace = "org.frogybober.huawgram"
 
   lint {
     disable += "MissingTranslation"
