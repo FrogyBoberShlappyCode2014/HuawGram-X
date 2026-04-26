@@ -2,18 +2,18 @@
 <resources>
   <string name="language_continueInLanguage">Continue in English</string>
 
-  <string name="Page1Title">Telegram X</string>
+  <string name="Page1Title">HuawGram X</string>
   <string name="Page2Title">Fast</string>
   <string name="Page3Title">Free</string>
   <string name="Page4Title">Powerful</string>
   <string name="Page5Title">Secure</string>
   <string name="Page6Title">Cloud-Based</string>
   <string name="Page1Message">The world\'s **fastest** messaging app.\nIt is **free** and **secure**.</string>
-  <string name="Page2Message">**Telegram** delivers messages\nfaster than any other application.</string>
-  <string name="Page3Message">**Telegram** provides free unlimited\ncloud storage for chats and media.</string>
-  <string name="Page4Message">**Telegram** has no limits on\nthe size of your media and chats.</string>
-  <string name="Page5Message">**Telegram** keeps your messages\nsafe from hacker attacks.</string>
-  <string name="Page6Message">**Telegram** lets you access your\nmessages from multiple devices.</string>
+  <string name="Page2Message">**Huawgram** delivers messages\nfaster than any other application.</string>
+  <string name="Page3Message">**Huawgram** provides free unlimited\ncloud storage for chats and media.</string>
+  <string name="Page4Message">**Huawgram** has no limits on\nthe size of your media and chats.</string>
+  <string name="Page5Message">**Huawgram** keeps your messages\nsafe from hacker attacks.</string>
+  <string name="Page6Message">**Huawgram** lets you access your\nmessages from multiple devices.</string>
   <string name="StartMessaging">Start Messaging</string>
 
   <string name="network_Connecting">Connecting…</string>
@@ -30,7 +30,7 @@
   <string name="network_LookupFailed">No routes found, connecting directly…</string>
   <string name="network_LookupFailedProxy">No routes found, using the previous proxy…</string>
 
-  <string name="AppNameAndVersion">Telegram X %1$s</string>
+  <string name="AppNameAndVersion">Huawgram X %1$s</string>
   <string name="language_code">en</string>
   <string name="language_emoji">&#127482;&#127480;</string>
   <string name="language_name">English</string>
@@ -38,7 +38,7 @@
   <string name="language_dateFormatLocale">en-UK</string>
   <string name="language_rtl">0</string>
   <string name="language_disable_lowercase">0</string>
-  <string name="language_continueInLanguagePopupText">**Telegram X** is now available in **English**.\n\nWould you like to switch app language?\n\nYou can revert changes anytime later in Settings&#160;&gt;&#160;Language.</string>
+  <string name="language_continueInLanguagePopupText">**Huawgram X** is now available in **English**.\n\nWould you like to switch app language?\n\nYou can revert changes anytime later in Settings&#160;&gt;&#160;Language.</string>
   <string name="language_appliedLanguage">App language has been set to English.</string>
   <string name="MoreLanguages">More Languages</string>
   <string name="timestamp_now">just now</string>
@@ -110,7 +110,7 @@
   <string name="login_PhoneNumber">Phone number</string>
   <string name="login_PremiumRequiredTitle">Telegram Premium required</string>
   <string name="login_PremiumRequiredBtn">Visit telegram.org</string>
-  <string name="login_PremiumRequired">**Telegram Premium** is required to proceed.\n\nUnfortunately, it\'s currently not possible to make in-app purchases through **Telegram X**.\n\nPlease use one of other official apps and enter the same phone number to set up the subscription.</string>
+  <string name="login_PremiumRequired">**Telegram Premium** is required to proceed.\n\nUnfortunately, it\'s currently not possible to make in-app purchases through **Huawgram X**.\n\nPlease use one of other official apps and enter the same phone number to set up the subscription.</string>
   <string name="login_error">Error: %1$s. __Contact us__, if you need help.</string>
   <string name="login_Code">Code</string>
   <string name="login_LastDigits_one">Last %1$s digit</string>
